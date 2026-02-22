@@ -1,6 +1,6 @@
 {
   "name": "tribute",
-  "homepage": "https://kishore22222.github.io/Fs-Students-Projects",
+  
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
