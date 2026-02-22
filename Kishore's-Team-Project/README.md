@@ -3,3 +3,6 @@ A centralized React + Vite application designed to host and showcase multiple st
 This platform serves as a collaborative learning repository where students can contribute their work while maintaining professional project organization. in your project.
 🚀 Hosted Application:
 👉 https://fs-students-projects-ifas.vercel.app
+LOGIN:
+   USERNAME:kishore
+   PASSWORD:kishore
